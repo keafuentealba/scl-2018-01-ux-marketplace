@@ -4,10 +4,11 @@
 
 Se nos ha contactado de la ANPC para asesorar en experiencia de usuario a fabricantes y productores nacionales que ocupan como medio de venta redes sosciales.
 
-Nuestra misión es potenciar el emprendimiento, hacer que la experiencia de compra sea optima, utilizando herramienta y nuestros conocimientos de UX .
+Nuestra misión es potenciar el emprendimiento, hacer que la experiencia de compra sea óptima, utilizando herramienta y nuestros conocimientos de UX .
 
 
 ### Problematicas Generales
+
 como punto inicial decidimos que debiamos contextualizar y entender las problematicas generales del tema, la mas clara es que 
 
  las redes sociales no cubre  en  totalidad las necesidades de negocio, como pudimos recopilar en diversos perfiles de ventas.    ademas observamos otras paginas de ventas , no  redes spciales, sino e-commerce, para saber como ellos cubren las necesidades de negocios a travez de  la web.
@@ -17,6 +18,7 @@ como punto inicial decidimos que debiamos contextualizar y entender las problema
 
 
 ### Patú:
+
  para contextualizar aun mas, decidimos observar a nuestra pyme en cuestión.
  
  
@@ -36,7 +38,8 @@ empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
 cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
 comprar sus productos.
 
-## Benchmark:
+### Benchmark:
+
 Y para entender esta ultima pregunta relizamos un estudio  mercado, son muchas las marcas  que ofrecen pastas untables hechos a base de vegetales con el mismo sistemas de envasado, con mas variedad y a menor precio.
 
 
@@ -45,7 +48,10 @@ Y para entender esta ultima pregunta relizamos un estudio  mercado, son muchas l
 
 
 ### Entrevista:
+
 Entonces supimos que era el momento para hablar con las persona  implicadas 
+
+![whatsapp image 2018-08-24 at 9 22 55 am](https://user-images.githubusercontent.com/39322764/44584492-7aef7a00-a77f-11e8-8b46-0de25bd2f497.jpeg)
 
 Realizamos entrevistas tanto a usuarios como al cliente, para recopilar las necesidades de cada parte y crear un lazo mas firme entre ambos , con esto pudimos descubrir un gran potencial en la marca, tambien problemáticas, las que vimos como grandes oportunidades de mejora para el emprendimiento.
 
@@ -54,18 +60,23 @@ finalmente pudimos  entender que  lo que diferencia a patú de el resto es la in
 
 
 #### Problemáticas:
+
 Las problematicas mas evidentes eran que las redes sociales no son el mejor canal para poder llevar un negocio,  Bárbara, creadora de Patú nos cuenta  que utiliza como canales de comunicación con sus cliente, Instagram, Facebook, Whatsapp , correo electrónico, teléfono.
 El gran problema de ello es que Barbara no sabe identificar a  un mismo  cliente  que se haya comunicado por los diferentes canales. Generando confuciones en sus pedidos.
 
 
+![index](https://user-images.githubusercontent.com/39322764/44584553-b5f1ad80-a77f-11e8-8e0e-1c05e113bd8e.png)
+
+
  ### Otro problema
- interfaz de redes sociales no funcionan como una presentación formal para poder crecer y posicionar su marca en otras tiendas que ofrecen productos de linea saludable al igual que patú.
+ 
+ Es que la interfaz de redes sociales no funcionan como una presentación formal para poder crecer y posicionar su marca en otras tiendas que ofrecen productos de linea saludable al igual que patú.
 
 Al otro lado, quienes quieren llegar a patú, tenienan inconvenientes con la escasa informacion del producto, precios, vías de despacho, treansaccion, canal de contacto.
 
 
-
  ### Soluciones:
+ 
  Enfocandonos en estas problematicas es que nosotras ideamos el diseño de una aplicación wed para mobile, que corresponde a una plataforma de ventas e-commerce donde implementamos funcionalidades como :
 
 - Comprar productos 
@@ -73,7 +84,7 @@ Al otro lado, quienes quieren llegar a patú, tenienan inconvenientes con la esc
 - Agendar pedidos 
 - Contactar a patu directamente 
 
-
+### sketching
 
 ![whatsapp image 2018-08-21 at 4 17 29 pm](https://user-images.githubusercontent.com/39322764/44583570-30b8c980-a77c-11e8-8da2-2eb1a37361ca.jpeg)
 ![whatsapp image 2018-08-21 at 4 17 29 pm 2](https://user-images.githubusercontent.com/39322764/44584147-5941c300-a77e-11e8-9f0f-4108e1e11cb7.jpeg)
