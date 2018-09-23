@@ -97,18 +97,21 @@ Visualizando éste campo es que nos encontramos que existe una variada oferta de
 
 Los cuales  definimos validarlos posteriormente en las entrevistas y testeos.
 
-  ![benchmarck](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/BENCHMARK%20FINTECH%20-%20Hoja%201.jpg)
-  [ Más sobre benchmarck](https://docs.google.com/spreadsheets/d/1JdM1tvyV16KelmURCPtb1t7Fl57FsggqIJ6AQ-Vc9l0/edit?usp=drive_web&ouid=116008133563303828531)
+  ![benchmarck](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/benckmarck.png)
+ 
 
   
 
-* Es por ello que uno de los puntos claves a considerar fue el sistema de alarma, ya que es innovador y muy útil puesto que entrega información clave a los usuarios.
-* Otro punto a considerar es que debe estar definido para ambos sistemas operativos. (Android e IOS)
-* Que siga mostrando las transacciones, ahorros y gastos.
+* Es por ello que uno de los puntos claves a considerar es que se informen los ingredientes, ya que asi puede abarcar un universo más amplio
+* Otro punto a considerar es los precios de los productos, ya que muchos por RRSS no se atreven a preguntar.( ya sea por que encuentran que es un valor que no pueden adquiri o simplemente porque encuentran que es muy engorroso)
 
 
- ![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/benchmark01.jpg)
+**ENTREVISTA CON CLIENTE PATÚ**
+Uno de los metodos de investigación utilizados fue la entrevista, aqui conocimos a Barbara fundadora y encargado de diversas areas de trabajo de la linea PATÚ.
+*Barbara es una joven nutricionista, que tiene como gran misión cambiar la forma en que los Chilenos se alimentan, es por ello que de un momento a otro surge PATÚ, como una alternativa saludable para acompañar el pan de la hora del té, pero la idea y sabor fue tan bueno que la gente empezo a adquirirlos para coctel, comidas y preparativos varios, ahi ella innovo y saco Patú dulce (que es una pasta organica vegetal dulce).*
+*Barbara tiene como grane meta que su producto sea conocido en todo chile, poder llegar a cada hogar y que su marca se potencie como una e-commerce seria*
 
+![benchmarck](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/WhatsApp%20Image%202018-08-20%20at%209.34.53%20AM%20(3).jpeg)
 
 **TEST MAPA DE CALOR**
 
