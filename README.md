@@ -112,6 +112,8 @@ Proceso de creación, de nuestra plataforma E-commerce, considero un flujo de co
 **COLORES Y LOGOS**
 
 Los colores se mantuvieron según muestrario del banco, pero se con algunos cambios, ejemplo en la página del home.
+
+
 Verde = #B2C904
 Blanco invierno = #FDFAF1
 Blanco= #FFFFFF
@@ -122,22 +124,10 @@ Cafe = #581503
  **PROTORIPO DEL ALTA**
  Prototipo de alta fidelidad que represneta las conclusiones aboradas anteriormente
 ![Prototipo del alta](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/ALTA.jpg)
+![ve video aqui](https://www.useloom.com/share/af3a59fb809c49f39207598213f28651)
 
 
-## Próximas iteraciones
-Próximos 6 meses (para ver las variaciones de la data )
-- En la iteración n°3 se evaluará la vinculación de la app a la cuenta directa del banco.
-- Se comparará el incremento de usuarios nuevos.
-- El % de dinero destinado a marketing se invertirá en publicidad de Google, Instragarn, para que nuestra app aparezca en los primeros campos de búsqueda, llegando así a nuestro público objetivo.
-
-
-## Hacker edition
- video mostrando el demo del app
-  
- [Tus Finanzas Video](https://www.powtoon.com/online-presentation/b1mSZ9H3Vuu/?mode=movie#/)
-  
- 
 
 ## Para tener acceso a la data de investigación te invitamos a visitar nuestra carpeta de drive.
-[Analisis de Data](https://drive.google.com/drive/u/0/folders/1K3pbyXj_WAkSqfdkE6dA8cO74Sfhifgj)
+[Información](https://drive.google.com/drive/u/0/folders/1lUDpgVYUwoOiwXmCfU76hpPLj7od_b4O)
 
