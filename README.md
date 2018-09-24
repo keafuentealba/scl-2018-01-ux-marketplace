@@ -120,7 +120,8 @@ Cafe = #581503
 ![Muestrario de colores](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/logo.png)
 
  **PROTORIPO DEL ALTA**
-
+ Prototipo de alta fidelidad que represneta las conclusiones aboradas anteriormente
+![Prototipo del alta](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/ALTA.jpg)
 
 
 ## Próximas iteraciones
