@@ -102,7 +102,9 @@ Proceso de creación, de nuestra plataforma E-commerce, considero un flujo de co
 * Productos (Muestra de los productos con una catalogación de estrellas,precio e ingredientes)
 * Regala PATÚ ( muetsrario de productos aptos para regalar)
 * Mi perfil PATÚ( suscripciones del producto para  clientes frecuentes)
-![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/solcuion.jpg)
+![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/WhatsApp%20Image%202018-08-21%20at%204.17.29%20PM(1).jpeg)
+
+![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/WhatsApp%20Image%202018-08-21%20at%204.17.30%20PM(3).jpeg)
 
 
 
