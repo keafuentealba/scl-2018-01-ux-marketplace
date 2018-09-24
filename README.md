@@ -106,27 +106,16 @@ Proceso de creación, de nuestra plataforma E-commerce, considero un flujo de co
 
 ![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/WhatsApp%20Image%202018-08-21%20at%204.17.30%20PM(3).jpeg)
 
-
-
-
-##  Propuesta de Recomendacion.
-
-Según datos obtenidos propusimos las siguientes modificaciones:
-![Aplicacion fintonic](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/solcuion.jpg)
-
-##  Prototipo de Alta.
-[Mira el prototipo Aquí](https://marvelapp.com/ed4343j/screen/47583928)
-
+[Más imagenes aquí](https://drive.google.com/drive/u/0/folders/1vzTRHe1XfWwqtNnIhm5ml7vX4fiMd9CR)
 
 
 ## Colores y logos
 
 Los colores se mantuvieron según muestrario del banco, pero se con algunos cambios, ejemplo en la página del home.
-Azules = #506e8d ;#33475c
-Gris = #f0f0f0 
+Verde = #B2C904
+Blanco invierno = #FDFAF1
 Blanco= #FFFFFF
-Verdes= #6bbfab ; #5ba392
-Rojos = #de5e5e ;#f96b6b
+Cafe = #581503
 
 ![Muestrario de colores](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/Colors.png)
 ![Logo](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/LOGO.png)
