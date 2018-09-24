@@ -124,7 +124,7 @@ Cafe = #581503
  **PROTORIPO DEL ALTA**
  Prototipo de alta fidelidad que represneta las conclusiones aboradas anteriormente
 ![Prototipo del alta](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/ALTA.jpg)
-![ve video aqui](https://www.useloom.com/share/af3a59fb809c49f39207598213f28651)
+![ve video aqui](https://drive.google.com/drive/u/0/folders/1s0bZf4gh45h0eUykPinPouteKsdGc61O1)
 
 
 
