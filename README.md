@@ -1,51 +1,3 @@
-# Plataforma de ventas en línea
-
-## Preámbulo
-
-Se nos ha contactado de la ANPC para asesorar en experiencia de usuario a fabricantes y productores nacionales que ocupan como medio de venta redes sosciales.
-
-Nuestra misión es potenciar el emprendimiento, hacer que la experiencia de compra sea optima, utilizando herramienta y nuestros conocimientos de UX .
-
-
-### Problematicas Generales
-como punto inicial decidimos que debiamos contextualizar y entender las problematicas generales del tema, la mas clara es que 
-
- las redes sociales no cubre  en  totalidad las necesidades de negocio, como pudimos recopilar en diversos perfiles de ventas.    ademas observamos otras paginas de ventas , no  redes spciales, sino e-commerce, para saber como ellos cubren las necesidades de negocios a travez de  la web.
-
-### Patú:
- para contextualizar aun mas, decidimos observar a nuestra pyme en cuestio
-
-### NO ES PATE ES PATU...
-fue lo primero que nos quedó grabado al momento de encontrarla en las redes sociales e identificamos el producto al instante, se trataba de pastas vegetales y saludables.
-
-Pero aun asi quedamos con algunas dudas dando vuelta como 
-que es en realidad ? Por que es es saludable? Y sobre Que las diferencia de otras marcas que se encuentran grandes tiendas.
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
-
-## Benchmark:
-Y para entender esta ultima pregunta relizamos un estudio  mercado, son muchas las marcas  que ofrecen pastas untables hechos a base de vegetales con el mismo sistemas de envasado, con mas variedad y a menor precio…. 
-
-
-### Entrevista:
-Entonces supimos que era el momento para hablar con las persona  implicadas 
-
-Realizamos entrevistas tanto a usuarios como al cliente, para recopilar las necesidades de cada parte y crear un lazo mas firme entre ambos , con esto pudimos descubrir un gran potencial en la marca, tambien problemáticas, las que vimos como grandes oportunidades de mejora para el emprendimiento.
-
-
-finalmente pudimos  entender que  lo que diferencia a patú de el resto es la intensionalidad, la calidad  del producto y  su elaboracion,  y esto era algo que queriamos comunicar y potenciar.
-
-
-#### Problemáticas:
-Las problematicas mas evidentes eran que las redes sociales no son el mejor canal para poder llevar un negocio,  Bárbara, creadora de Patú nos cuenta  que utiliza como canales de comunicación con sus cliente, Instagram, Facebook, Whatsapp , correo electrónico, teléfono.
-El gran problema de ello es que Barbara no sabe identificar a  un mismo  cliente  que se haya comunicado por los diferentes canales. Generando confuciones en sus pedidos.
-
-
- ### Otro problema
- interfaz de redes sociales no funcionan como una presentación formal para poder crecer y posicionar su marca en otras tiendas que ofrecen productos de linea saludable al igual que patú.
-
-Al otro lado, quienes quieren llegar a patú, tenienan inconvenientes con la escasa informacion del producto, precios, vías de despacho, treansaccion, canal de contacto.
 
 
  ### Soluciones:
@@ -112,6 +64,39 @@ Uno de los metodos de investigación utilizados fue la entrevista, aqui conocimo
 *Barbara tiene como grane meta que su producto sea conocido en todo chile, poder llegar a cada hogar y que su marca se potencie como una e-commerce seria*
 
 ![benchmarck](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/WhatsApp%20Image%202018-08-20%20at%209.34.53%20AM%20(3).jpeg)
+[Escucha la entrevista completa aquí]()
+
+**ENTREVISTA CON USUARIOS DE E-COMMERCE**
+ Dentro del mismo proceso de entrevistas, es que se considero realizarlas a usuarios que compran por plataformas online, o que son consumidores habituales de productos vegetarianos.
+ Es aquí dónde nos dimos cuenta los grandes problemas que aquejan a los son informativos, que al no ver el producto antes de comprarlo, necesitan infromarce lo mejor posible el producto que van a adquirir, aquí entra todo un tema de confianza, de fidelización y de adquición post compra del producto.
+
+[Escucha las entrevistas aquí](https://drive.google.com/drive/u/0/folders/1OiyA6rlmuAJEVA3xIItU_o_mPyiHNlvc)
+
+
+
+**ANALISIS DE DATOS**
+De las entrevistas con los diferentes actores del proceso del compra es que hicimos diversas tareas, una de ellas fue un Affinity map en el cual agrupamos todos los insight otorgados por medios de las entrevistas, ahí obtuvimos varios elementos que dieron respuesta a nuestros objetivos puestos previamente.
+
+Puntos importantes que recopilamos en este proceso fue 
+
+* Creación de una plataforma de venta
+  Ya los usuarios necesitan comprar por una plataforma directa que entregue toda la información necesaria.
+* Información de procesos de compra
+  Dentro de la misma página de E-commerce, es que  debe exixtir un proceso de compra, dónde de seleccione un producto, se inserte en un carro de compra, pagarlo y que llegue el producto a los consumidores.
+* Informacion de productos y ventas
+  Debe existir una categoría donde se pueda conocer los ingredientes del producto, stock y adquisición 
+* Envio de ventas a regiones
+  Captación de nuevos clientes, en ésta nueva propuesta es que se podra llegar a más clientes, de diversas regiones, ogrando así un mayor campo de consumidores.
+
+
+
+  ![benchmarck](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/benckmarck.png)
+ 
+
+
+
+
+
 
 **TEST MAPA DE CALOR**
 
