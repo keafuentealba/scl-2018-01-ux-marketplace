@@ -1,25 +1,4 @@
 
-
- ### Soluciones:
- Enfocandonos en estas problematicas es que nosotras ideamos el diseño de una aplicación wed para mobile, que corresponde a una plataforma de ventas e-commerce donde implementamos funcionalidades como :
-
-- Comprar productos 
-- Informarse 
-- Agendar pedidos 
-- Contactar a patu directamente 
-
-![whatsapp image 2018-08-21 at 4 17 29 pm](https://user-images.githubusercontent.com/39322764/44583570-30b8c980-a77c-11e8-8da2-2eb1a37361ca.jpeg)
-
-
-
-
-
-
-
-
-___________________________
-
-
 # E-commerce
 
 ## Preámbulo
@@ -90,7 +69,7 @@ Puntos importantes que recopilamos en este proceso fue
 
 
 
-  ![benchmarck](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/benckmarck.png)
+  ![Affinity map](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/posit.png)
  
 
 
