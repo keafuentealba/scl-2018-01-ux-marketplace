@@ -109,7 +109,7 @@ Proceso de creación, de nuestra plataforma E-commerce, considero un flujo de co
 [Más imagenes aquí](https://drive.google.com/drive/u/0/folders/1vzTRHe1XfWwqtNnIhm5ml7vX4fiMd9CR)
 
 
-## Colores y logos
+**COLORES Y LOGOS**
 
 Los colores se mantuvieron según muestrario del banco, pero se con algunos cambios, ejemplo en la página del home.
 Verde = #B2C904
@@ -117,21 +117,9 @@ Blanco invierno = #FDFAF1
 Blanco= #FFFFFF
 Cafe = #581503
 
-![Muestrario de colores](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/Colors.png)
-![Logo](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/LOGO.png)
-![Isotipo](https://github.com/MarcelaFPazS/scl-2018-1-fintech-app/blob/master/img/ISOTIPO.png)
+![Muestrario de colores](https://github.com/MarcelaFPazS/scl-2018-01-ux-marketplace/blob/master/img/logo.png)
 
-
-
-
-
- 
-## Modificaciones 
-
-En base a la propuesta de recomendación es que las modificaciones propuestas suplen algunos déficits como:
-- Mayor porcentaje de clientes antiguos que poseen Android.
-- Adquisición de productos bancarios.
-- El presupuesto de publicidad en Facebook no se incrementará, puestos que la taza de visualización tiene un incremento ascendente y prolongado en el tiempo, adicional a ello, proponemos mostrar en la landing los medios de descarga, así el universo se incrementa de manera exponencial, ya que es ahí dónde existe un embudo invertido concreto.
+ **PROTORIPO DEL ALTA**
 
 
 
